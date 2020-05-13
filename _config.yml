@@ -25,7 +25,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattpileggi
 github_username:  matthewpileggi
+
+# Fields minima uses, but are not defaulted with the jekyll new command.
 linkedin_username: matthewpileggi
+author: Matthew Pileggi
+
+# New fields not defaulted by jekyll-new with the minima theme go below.
 
 # Build settings
 # Removed gem-based theme in order to use/modify a "regular theme". -MP

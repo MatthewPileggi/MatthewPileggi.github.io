@@ -1,0 +1,13 @@
+---
+layout: post
+categories: examples
+---
+
+References when building my site:  
+[acgt](http://www.acgt.me/about)  
+[lab.loman](http://lab.loman.net/about/)  
+[ivory.idyll](http://ivory.idyll.org/)  
+[omicsomics.blogspot](https://omicsomics.blogspot.com/)  
+[opiniomics](http://www.opiniomics.org/about/)  
+[ewanbirney](http://ewanbirney.com/about)  
+[michaelchimenti](https://www.michaelchimenti.com/about/)  
