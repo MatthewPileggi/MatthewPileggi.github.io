@@ -1,18 +1,19 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! My name is Matthew Pileggi. I am a graduate student at the University of Florida. Go Gators!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My journey with science began in the summer of 2016 at Valencia College in Orlando, Florida as an undergraduate student. My biology professor, Dr. Laurent invited me to participate in a DNA Barcoding research project. From that moment on, I knew that I was deeply in love with pipettes and [fasta files](https://en.wikipedia.org/wiki/FASTA_format).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am currently a member of the [Wong Lab](https://microbiota.wixsite.com/adam-wong) characterizing the resistance patterns observed in (multi)drug-resistant bacteria isolated from livestock associated flies. One of my goals is to use next-generation sequencing technologies to identify resistance genes carried by these flies using cutting-edge bioinformatic tools for genomic analysis.
+
+Please feel free to use the links below to contact me through [email](mailto:mpileggi@ufl.edu).  
+Check out my [github page](https://github.com/matthewpileggi).  
+Connect with me on [linkedin](https://www.linkedin.com/in/matthewpileggi/).  
+Follow me on [twitter](https://twitter.com/mattpileggi).  
 
 
-[jekyll-organization]: https://github.com/jekyll
+

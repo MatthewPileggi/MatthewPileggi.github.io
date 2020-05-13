@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/tools"
+permalink: "/tools/overview"
 ---
 
 I have experience in a number of genome analysis tools including:
