@@ -28,7 +28,8 @@ github_username:  matthewpileggi
 linkedin_username: matthewpileggi
 
 # Build settings
-theme: minima
+# Removed gem-based theme in order to use/modify a "regular theme". -MP
+# theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
