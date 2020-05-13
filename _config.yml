@@ -21,7 +21,7 @@
 title: Matthew Pileggi
 email: mpileggi@ufl.edu
 description: molecular biology, genomics, metagenomics, bioinformatics 
-baseurl: "matthewpileggi.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattpileggi
 github_username:  matthewpileggi
