@@ -5,7 +5,7 @@
 layout: post
 title: "Tools"
 category: Tools
-permalink: "Tools/overview"
+permalink: "tools/overview"
 ---
 
 
