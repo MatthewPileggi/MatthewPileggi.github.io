@@ -13,7 +13,7 @@ I have experience in a number of genome analysis tools including:
 
 ### Assembly
 
-[Spades](bioinf.spbau.ru/spades)  
+[Spades](http://cab.spbu.ru/software/spades/)  
 [Canu](https://canu.readthedocs.io/en/stable/index.html)
 
 ### Sequence Alignment
@@ -23,7 +23,7 @@ I have experience in a number of genome analysis tools including:
 
 ### Genome Assessment
 
-[CheckM](ecogenomics.github.io/CheckM)  
-[QUAST](bioinf.spbau.ru/en/quast)
+[CheckM](https://ecogenomics.github.io/CheckM)  
+[QUAST](https://bioinf.spbau.ru/en/quast)
 
 If there are any tools that that you suggest should be on this list please let me know!
