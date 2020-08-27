@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -20,15 +20,16 @@
 
 title: Matthew Pileggi
 email: mpileggi@ufl.edu
-description: molecular biology, genomics, metagenomics, bioinformatics 
+description: molecular biology, genomics, metagenomics, bioinformatics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattpileggi
 github_username:  matthewpileggi
+nav_links: /about /tools/overview/
 
 # Fields minima uses, but are not defaulted with the jekyll new command.
 linkedin_username: matthewpileggi
-author: Matthew Pileggi
+author.name: Matthew Pileggi
 
 # New fields not defaulted by jekyll-new with the minima theme go below.
 
