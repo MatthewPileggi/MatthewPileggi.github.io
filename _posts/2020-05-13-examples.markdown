@@ -11,4 +11,4 @@ References when building my site:
 [opiniomics](http://www.opiniomics.org/about/)  
 [ewanbirney](http://ewanbirney.com/about)  
 [michaelchimenti](https://www.michaelchimenti.com/about/)
-[sbamin](https://sbamin.com/about/)  
+[sbamin](https://sbamin.com/about/)
