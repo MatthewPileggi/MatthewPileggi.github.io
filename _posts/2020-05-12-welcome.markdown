@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Welcome"
-date:   2020-05-12 13:32:59 -0400
-categories: Welcome
----
-
-Welcome to my blog! Please don't mind the bugs.
